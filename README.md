@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sasvi Dunara
+# 👋 Hi, I’m Sasvi Dunara
+
 - 👀 I’m interested in Business analysis, Frontend development, UI/UX 
 - 🌱 I’m currently studying IT at SLIIT
 - 💼 I’m actively looking for job opportunities in business analysis and frontend development.
